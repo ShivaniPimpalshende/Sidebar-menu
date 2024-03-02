@@ -1,6 +1,6 @@
 Sidebar Menu
 
-This project is a simple sidebar menu implementation using HTML, CSS.
+A sidebar menu is a user interface element commonly found in web applications and websites. It is typically a vertical column or panel positioned at the side of the main content area, providing navigation links or options for users to interact with the application. The sidebar menu often contains links to different sections of the site, submenus for hierarchical navigation, or controls for settings and preferences.
 
 ## Features
 
